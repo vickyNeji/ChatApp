@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515097103005",
+    "project_id": "chatdemo-fcc13",
+    "storage_bucket": "chatdemo-fcc13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515097103005:android:7922ea026b1980eed6e274",
+        "android_client_info": {
+          "package_name": "com.example.chatdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515097103005-5hfukhog0jgb2vhf6u9h95k6q9cufk11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmMWEaHkzZJwLTRh-8P0ZCMmUrkiYQBjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515097103005-5hfukhog0jgb2vhf6u9h95k6q9cufk11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
